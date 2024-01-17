@@ -14,7 +14,7 @@ public class selectionSort {
         int arr[] = {7,8,3,1,2};
 
 //learning git
-//new feature for p1
+//new feature for p1 only
         //bubble sort
 
         for (int i = 0; i< arr.length - 1;i++)
